@@ -10,7 +10,7 @@ It is inspired by Andrej Karpathy’s micrograd, rebuilt step-by-step to help un
 
 This project is intentionally simple and fully transparent. Every computation — forward pass, backward pass, gradient accumulation, and weight update — is written in Python using only basic operations.
 
-NOTED - 
+NOTES - [Neural Network, Backpropagation & Gradient](https://github.com/ImJoshiANE0/BGRAD/blob/main/notes/Neural%20Network%2C%20Backpropagation%20and%20Gradient.md#neural-network-backpropagation--gradient)
 
 ---
 
