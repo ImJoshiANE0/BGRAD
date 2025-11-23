@@ -128,4 +128,4 @@ This project is an educational foundation for deeper machine-learning exploratio
 
 ## **Acknowledgment**
 
-Inspired heavily by **Andrej Karpathy’s micrograd**, with modifications and experimentation added during the learning process.
+Inspired heavily by [**Andrej Karpathy’s micrograd**](https://www.youtube.com/@AndrejKarpathy), with modifications and experimentation added during the learning process.
