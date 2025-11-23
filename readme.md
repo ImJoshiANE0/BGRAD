@@ -10,6 +10,8 @@ It is inspired by Andrej Karpathy’s micrograd, rebuilt step-by-step to help un
 
 This project is intentionally simple and fully transparent. Every computation — forward pass, backward pass, gradient accumulation, and weight update — is written in Python using only basic operations.
 
+NOTED - 
+
 ---
 
 ## **Features**
@@ -110,7 +112,7 @@ ypredicted
 
 ## **Why This Project Exists**
 
-This repository is meant for anyone who wants to understand neural networks at the lowest level — without relying on large frameworks like PyTorch or TensorFlow.
+This repository is meant to understand neural networks at the lowest level — without relying on large frameworks like PyTorch or TensorFlow.
 
 By building everything manually, it becomes clear:
 
