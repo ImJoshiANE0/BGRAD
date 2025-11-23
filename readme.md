@@ -1,4 +1,4 @@
-# **Bgrad: A Tiny Autograd + Neural Network Engine (Inspired by Andrej Karpathy)**
+# **Bgrad: A Tiny Autograd + Neural Network Engine**
 
 **Bgrad** is a minimal, educational neural-network and autograd engine implemented from scratch in Python.
 It is inspired by Andrej Karpathy’s micrograd, rebuilt step-by-step to help understand:
